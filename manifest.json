@@ -2,8 +2,10 @@
   "manifest_version": 2,
 
   "name": "Unfixed google search form",
+  "short_name": "UF",
   "description" : "Unfixed google search form and enable a page to see expanded screen.",
-  "version": "1.0",
+  "author": "Daiki Tagami",
+  "version": "1.0.0",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
