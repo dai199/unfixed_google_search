@@ -3,7 +3,8 @@
 
   "name": "Unfixed google search form",
   "short_name": "UF",
-  "description" : "Unfixed google search form and enable a page to see expanded screen.",
+  "description" : __MSG_extDescription__,
+  "default_locale": "ja",
   "author": "Daiki Tagami",
   "version": "1.0.0",
   "icons": {
