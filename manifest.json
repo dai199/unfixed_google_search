@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Unfixed google search form",
+  "description" : "Unfixed google search form and enable a page to see expanded screen.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/search*"],
+      "css": ["style.css"]
+    }
+  ]
+}
